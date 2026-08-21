@@ -1,0 +1,10 @@
+## License
+
+Copyright © 2026 Valentino De Vivo. All rights reserved.
+
+This project is publicly available for educational reference, academic
+review and portfolio demonstration. Reproduction, modification,
+redistribution or commercial use of the source code, research methodology
+or trading strategy is not permitted without prior written authorization.
+
+See the [LICENSE](LICENSE) file for details.
